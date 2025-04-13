@@ -16,5 +16,10 @@ class Database{
 
     }
 
+    public function build($query){
+
+
+    }
+
     
 } 
